@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidTVappTutorial</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sweets">Sweets</string>
+    <string name="meals">Meals</string>
+    <string name="drinks">Drinks</string>
+    <string name="pizza">Pizza</string>
+    <string name="shrimps">Shrimps</string>
+    <string name="dims">Dim Sum</string>
+    <string name="shake">Shake</string>
+    <string name="hot">Hot chocolate</string>
+    <string name="lemon">Lemonade</string>
+    <string name="briga">Brigadeiro</string>
+    <string name="muffins">Muffins</string>
+    <string name="monkey">Monkey bread</string>
+</resources>
